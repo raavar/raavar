@@ -14,12 +14,25 @@ Second-Year Student at the **Faculty of Automatic Control and Computer Science (
 
 ## 🛠️ Technical Toolkit
 
-| | | |
-| :---: | :---: | :---: |
-| C++ | Git | Embedded Systems |
-| Python | Linux / WSL | IoT & Smart Systems |
-| C | VS Code | Algorithms & Problem Solving |
-| Assembly (x86) | MATLAB | Robotics & Control Systems |
+#### 💻 Languages & Frameworks
+* C++
+* Python
+* C
+* Assembly (x86)
+* MATLAB
+
+#### ⚙️ Tools & Platforms
+* Git
+* Linux / WSL
+* VS Code
+
+#### 🌟 Key Interests
+* Embedded Systems
+* IoT & Smart Systems
+* Algorithms & Problem Solving
+* Robotics & Control Systems
+* 3D Printing
+* Arduino
 
 ---
 
