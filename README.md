@@ -14,6 +14,7 @@ Second-Year Student at the **Faculty of Automatic Control and Computer Science (
 
 ## 🛠️ Technical Toolkit
 
+| | | |
 | :---: | :---: | :---: |
 | C++ | Git | Embedded Systems |
 | Python | Linux / WSL | IoT & Smart Systems |
