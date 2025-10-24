@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Robert-Nicolae! 👋
 
-<!--
-**raavar/raavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-Year Student at the **Faculty of Automatic Control and Computer Science (CTI)** at the University POLITEHNICA of Bucharest (UPB).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+
+* **💼 LinkedIn:** [Robert-Nicolae Zaharioiu]
+* **📧 Email:** zaharioiu.nrobert@gmail.com
+* **📄 My CV (PDF):** [View my Resume HERE](https://raavar.github.io/CV/)
+
+---
+
+## 🛠️ Technical Toolkit
+
+| :---: | :---: | :---: |
+| C++ | Git | Embedded Systems |
+| Python | Linux / WSL | IoT & Smart Systems |
+| C | VS Code | Algorithms & Problem Solving |
+| Assembly (x86) | MATLAB | Robotics & Control Systems |
+
+---
+
+## 💡 Projects (Work in Progress)
+
+This section is dedicated to showcasing my technical portfolio. As I complete my university and personal projects, I will list them here, including links to repositories, descriptions of the problems solved, and the technologies used.
+
+* [Project 1: Title and Brief Description...]
