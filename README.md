@@ -2,6 +2,9 @@
 
 Second-Year Student at the **Faculty of Automatic Control and Computer Science (CTI)** at the University POLITEHNICA of Bucharest (UPB).
 
+Highly motivated and results-focused Junior Programmer leveraging a strong passion for engineering and computing.
+Proven ability to translate complex logical concepts into tangible technical solutions, evidenced by robotics mentoring and key leadership roles in high-impact student organizations.
+
 ---
 
 ## 🔗 Connect with Me
