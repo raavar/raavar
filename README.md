@@ -17,22 +17,20 @@ Proven ability to translate complex logical concepts into tangible technical sol
 
 ## 🛠️ Technical Toolkit
 
-#### 💻 Languages & Frameworks
-* C++
-* Python
-* C
-* Assembly (x86)
-* MATLAB
-* Java
-* HTML / CSS / JavaScript
-* JSON
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,matlab,assembly,html,css,js" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,arduino" />
+</div>
 
-#### ⚙️ Tools & Platforms
-* Git / GitHub
-* Linux / WSL
-* VS Code
-* AutoCAD / Onshape
-* PSPICE / Arduino
+<br>
+
+| 💻 Programming Fundamentals | ⚙️ Data & Scientific Tools | 🌐 Systems, CAD & Leadership |
+| :--- | :--- | :--- |
+| **C/C++, C** (SDA, PCLP) | **Python** (Analysis, Interpolation) | **Assembly (x86)** (Low-Level Architecture) |
+| **Java** (Robotics, OOP) | **MATLAB** (Numerical Methods) | **Linux / WSL** (Environment) |
+| **HTML / CSS / JavaScript** | **JSON** (Data Serialization) | **AutoCAD / Onshape** (3D Modeling & Design) |
+| **Git / GitHub** (Version Control) | **Data Analysis** & Visualization | **Robotics & Embedded Systems** |
+| **Algorithmic Complexity** | **Linear Algebra** | **Leadership & Project Management** |
 
 #### 🌟 Key Interests
 * Embedded Systems
