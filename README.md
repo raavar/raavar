@@ -5,6 +5,13 @@ Second-Year Student at the **Faculty of Automatic Control and Computer Science (
 Highly motivated and results-focused Junior Programmer leveraging a strong passion for engineering and computing.
 Proven ability to translate complex logical concepts into tangible technical solutions, evidenced by robotics mentoring and key leadership roles in high-impact student organizations.
 
+#### 🌟 Key Interests
+* Embedded Systems
+* IoT & Smart Systems
+* Algorithms & Problem Solving
+* Robotics & Control Systems
+* Data Analysis & Visualization
+
 ---
 
 ## 🔗 Connect with Me
@@ -17,27 +24,13 @@ Proven ability to translate complex logical concepts into tangible technical sol
 
 ## 🛠️ Technical Toolkit
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,matlab,assembly,html,css,js" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,arduino" />
-</div>
-
-<br>
-
-| 💻 Programming Fundamentals | ⚙️ Data & Scientific Tools | 🌐 Systems, CAD & Leadership |
+| 💻 Programming Fundamentals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ⚙️ Data & Scientific Tools &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 🌐 Systems, CAD & Leadership &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :--- | :--- | :--- |
-| **C/C++, C** (SDA, PCLP) | **Python** (Analysis, Interpolation) | **Assembly (x86)** (Low-Level Architecture) |
+| **C/C++, C** | **Python** (Analysis, Interpolation) | **Assembly (x86)** (Low-Level Architecture) |
 | **Java** (Robotics, OOP) | **MATLAB** (Numerical Methods) | **Linux / WSL** (Environment) |
 | **HTML / CSS / JavaScript** | **JSON** (Data Serialization) | **AutoCAD / Onshape** (3D Modeling & Design) |
 | **Git / GitHub** (Version Control) | **Data Analysis** & Visualization | **Robotics & Embedded Systems** |
 | **Algorithmic Complexity** | **Linear Algebra** | **Leadership & Project Management** |
-
-#### 🌟 Key Interests
-* Embedded Systems
-* IoT & Smart Systems
-* Algorithms & Problem Solving
-* Robotics & Control Systems
-* Data Analysis & Visualization
 
 ---
 
