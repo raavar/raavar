@@ -1,16 +1,9 @@
 # Hi there, I'm Robert-Nicolae! 👋
 
-Second-Year Student at the **Faculty of Automatic Control and Computer Science (CTI)** at the University POLITEHNICA of Bucharest (UPB).
+Second-Year Student at the **Faculty of Automatic Control and Computers (CTI)** at the National University of Science and Technology Politehnica Bucharest.
 
 Highly motivated and results-focused Junior Programmer leveraging a strong passion for engineering and computing.
 Proven ability to translate complex logical concepts into tangible technical solutions, evidenced by robotics mentoring and key leadership roles in high-impact student organizations.
-
-#### 🌟 Key Interests
-* Embedded Systems
-* IoT & Smart Systems
-* Algorithms & Problem Solving
-* Robotics & Control Systems
-* Data Analysis & Visualization
 
 ---
 
@@ -38,6 +31,18 @@ Proven ability to translate complex logical concepts into tangible technical sol
 
 This section is dedicated to showcasing my technical portfolio. I list the most challenging university and personal projects, highlighting the core problem solved and the technologies used.
 
+### 🖥️ DataCenter Monitor
+*Architected a high-availability IT infrastructure API focused on scalability and resilience.*
+* **Key Tech:** Java, OOP Design Patterns (Observer, Factory, Singleton, Builder, Command)
+* **Engineering Focus:** Implemented a custom exception handling framework to ensure 100% data integrity during simulated failures.
+* [**View Repository**](https://github.com/raavar/OOP-DataCenter-API)
+
+### 🎬 Parallax Movie Universe
+*Full-stack movie tracking ecosystem built for high-concurrency user environments.*
+* **Key Tech:** Python, PostgreSQL, Docker, Docker-Compose, JavaScript
+* **Engineering Focus:** Normalized a complex relational database and containerized the entire suite for environment parity across dev teams.
+* [**View Repository**](https://github.com/raavar/Parallax-Movie-Universe)
+
 ### ⚙️ Algorithms & Low-Level Systems
 
 * **[Low-Level Programming Implementation]** (Assembly x86, C)
@@ -54,19 +59,13 @@ This section is dedicated to showcasing my technical portfolio. I list the most 
 
 ### 📊 Data Analysis & Scientific Computing
 
-* **[Scientific Data Analysis & Interpolation]** (Python, Data Visualization, Google Sheets, JSON)
+* **[Graph Generator for Physics]** (Python, Data Visualization, Google Sheets, JSON)
     * Developed a Python solution to fetch experimental data from Google Sheets, apply complex interpolations, and generate custom analytical graphs for scientific analysis.
-    * **[GitHub Repository](https://github.com/raavar/Fizica)**
+    * **[GitHub Repository](https://github.com/raavar/Graph-Generator)**
 
 * **[Numerical Methods Algorithm Implementation]** (MATLAB / Python, Linear Algebra)
     * Implemented foundational numerical methods (e.g., Gauss-Seidel, Newton's Method, Polynomial Interpolation) to efficiently solve complex engineering and mathematical problems.
     * **[GitHub Repository](https://github.com/raavar/MN)**
-
-### 🤖 Robotics & Control
-
-* **[FTC 21030 Robot Code Repository]** (Java, Git)
-    * Software development for the FIRST Tech Challenge robot, implementing autonomous navigation, tele-op control, and hardware interface with motors and sensors.
-    * **[GitHub Repository](https://github.com/raavar/FTC-21030-Robot-Code)**
 
 ### 🌐 Web & Front-End Basics
 
