@@ -11,7 +11,7 @@ Proven ability to translate complex logical concepts into tangible technical sol
 
 * **💼 LinkedIn:** [Robert-Nicolae Zaharioiu](https://www.linkedin.com/in/robert-nicolae-zaharioiu-370056387/)
 * **📧 Email:** zaharioiu.nrobert@gmail.com
-* **📄 My CV (PDF):** [View my CV HERE](https://raavar.github.io/CV/)
+* **📄 My CV (PDF):** [View my CV HERE](https://raavar.github.io/CeeVee/)
 
 ---
 
