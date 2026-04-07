@@ -14,15 +14,3 @@ Proven ability to translate complex logical concepts into tangible technical sol
 * **📄 My CV (PDF):** [View my CV HERE](https://raavar.github.io/CeeVee/)
 
 ---
-
-## 🛠️ Technical Toolkit
-
-| 💻 Programming Fundamentals &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ⚙️ Data & Scientific Tools &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 🌐 Systems, CAD & Leadership &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| :--- | :--- | :--- |
-| **C/C++, C** | **Python** (Analysis, Interpolation) | **Assembly (x86)** (Low-Level Architecture) |
-| **Java** (Robotics, OOP) | **MATLAB** (Numerical Methods) | **Linux / WSL** (Environment) |
-| **HTML / CSS / JavaScript** | **JSON** (Data Serialization) | **AutoCAD / Onshape** (3D Modeling & Design) |
-| **Git / GitHub** (Version Control) | **Data Analysis** & Visualization | **Robotics & Embedded Systems** |
-| **Algorithmic Complexity** | **Linear Algebra** | **Leadership & Project Management** |
-
----
